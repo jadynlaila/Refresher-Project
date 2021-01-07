@@ -1,0 +1,24 @@
+body {
+    background-image: url(gifts.svg);
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    font-family: 'Redressed', cursive;
+}
+
+p {
+    background-color: white;
+    width: 200px;
+    height: 1rem;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+button {
+    margin-right: auto;
+    margin-left: auto;
+    width: 200px;
+    text-align: center;
+    justify-content: center;
+}
